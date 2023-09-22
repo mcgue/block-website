@@ -1,4 +1,5 @@
-# Blocks websites
+# Blocks websites on Chrome and Edge browsers
+# Does not work on Firefox
 
 import os
 
